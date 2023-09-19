@@ -15,3 +15,6 @@ To use this application, just start typing in the box on the desired hour, and h
 
 # Deployed Application and Repository
 
+# License
+
+MIT License
