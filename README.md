@@ -9,13 +9,15 @@ To use this application, just start typing in the box on the desired hour, and h
 
 # Contributors:
 
-<link href="https://github.com/G303K"> Micah
-<link href="https://github.com/kylesunman"> Kyle
-<link href="https://bootcampspot.instructure.com/courses/4031/modules"> MSU Coding Bootcamp
+Micah: https://github.com/G303K 
+Kyle: https://github.com/kylesunman
+MSU Coding Bootcamp: https://bootcampspot.instructure.com/courses/4031/modules
 
 # Deployed Application and Repository
 
-Deployed Application: https://mrsargent00.github.io/mod5/
+Deployed Application: https://mrsargent00.github.io/mod5
+
+Repository: https://github.com/mrsargent00/mod5
 
 # License
 
