@@ -15,6 +15,8 @@ To use this application, just start typing in the box on the desired hour, and h
 
 # Deployed Application and Repository
 
+Deployed Application: https://mrsargent00.github.io/mod5/
+
 # License
 
 MIT License
